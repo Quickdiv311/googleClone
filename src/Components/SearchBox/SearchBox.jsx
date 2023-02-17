@@ -13,7 +13,10 @@ const SearchBox = (props) => {
      <input type="text" placeholder='Search Google or Type a Url' onKeyDown={e => 
      {if(e.key=="Enter")
     {
-      props.handleEnter();
+      if(props.isSearch)
+      {
+        props.handleEnter();
+      }
       localStorage.setItem('search',e.target.value);
       navigate('/search');
     }}}/>

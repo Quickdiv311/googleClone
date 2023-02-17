@@ -17,7 +17,7 @@ const ResultsHeader = (props) => {
    <div className="results-header">
       <div className="left-results-header">
         <img src="https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw" alt="" className='google-search-icon'/>
-        <SearchBox handleEnter={handleEnter}/>
+        <SearchBox isSearch={true} handleEnter={handleEnter}/>
         </div>
       <div className="right-results-header">
          <FiSettings size={30} className="settings"/>

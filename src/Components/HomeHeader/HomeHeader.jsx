@@ -11,7 +11,7 @@ const HomeHeader = () => {
         <p className="home-link">Gmail</p>
         <p className="home-link">Images</p>
             <BiDotsVerticalRounded size={30} className="dots"/>
-            <CgProfile size={20}/>
+            <CgProfile size={30}/>
       </div>
    </div>
   );

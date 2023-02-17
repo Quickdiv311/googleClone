@@ -1,0 +1,2 @@
+API key = "AIzaSyB5DQFja8G4xISguhpp8XM9Tfgzvpwsb8s"
+api link = "https://www.googleapis.com/customsearch/v1?key=AIzaSyB5DQFja8G4xISguhpp8XM9Tfgzvpwsb8s&cx=9ec571f86697d07ac&q=react"

@@ -1,0 +1,17 @@
+.home-content
+{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.google-icon
+{
+    width: 600px;
+}
+
+.search-container
+{
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}

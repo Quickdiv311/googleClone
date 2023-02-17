@@ -1,0 +1,37 @@
+.home-header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-home-header
+{
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+}
+
+.home-link
+{
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.nine-dots
+{
+    height: 20px;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.home-profile
+{
+    height: 30px !important;
+}
+
+.dots
+{
+  margin-right: 20px;
+}
+
+

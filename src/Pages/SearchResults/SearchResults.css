@@ -1,0 +1,10 @@
+.results
+{
+    margin: 0 40% 0 20%;
+    border-right: 1px solid gray;
+}
+
+.search-results
+{
+    margin-top: 0;
+}

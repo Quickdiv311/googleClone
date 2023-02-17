@@ -1,0 +1,19 @@
+.search-result
+{
+    width: 700px;
+    margin-bottom:30px;
+
+    text-align: start;
+}
+
+.snippet
+{
+  font-size:15px;
+}
+
+.displayLink
+{
+    margin-bottom: 0 !important;
+    display: flex;
+    align-items: center;
+}

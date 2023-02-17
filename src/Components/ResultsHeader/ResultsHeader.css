@@ -1,0 +1,36 @@
+.results-header
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.left-results-header
+{
+    display: flex;
+    width: 45%;
+    justify-content: end;
+}
+
+.left-results-header img
+{
+    width: 100px;
+    margin-right: 20px;
+}
+
+.right-results-header
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+}
+
+.settings
+{
+    margin-right: 20px;
+}
+
+.dots
+{
+  margin-right: 20px;
+}

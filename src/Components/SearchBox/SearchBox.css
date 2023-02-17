@@ -1,0 +1,28 @@
+.search-box
+{
+    width: 450px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius:  999px 999px 999px 999px;
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+}
+
+.search-box input
+{
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.search-icon
+{
+    width: 20px;
+    margin-right: 10px;
+}
+
+.voice-search
+{
+    width: 20px;
+}
